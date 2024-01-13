@@ -1,4 +1,4 @@
-# Jovian-Machine-Learning-with-Python-Course
+# Jovian Machine Learning with Python Course
  "Machine Learning with Python: Zero to GBMs" is a practical and beginner-friendly introduction to supervised machine learning, decision trees, and gradient boosting using Python.
 
 Lesson 1 - Linear Regression with Scikit Learn : Preparing data for machine learning, Linear regression with multiple features, Generating predictions and evaluating models
